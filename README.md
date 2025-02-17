@@ -1,7 +1,7 @@
 # JARVIS Health
 
-A new Flutter project.
+Built with FlutterFlow and Terra API.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+# Branch Details
+- `main`: code for LLM calls and API endpoints using OpenAI API and FastAPI
+- `flutterflow`: contains app source code generated through Flutter Flow
